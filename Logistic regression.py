@@ -2,7 +2,7 @@
 """
 Created on Thu Mar  3 06:51:00 2022
 
-@author: nEW u
+@author: Laxmi
 """
 
 # Logistic Regression
